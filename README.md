@@ -9,7 +9,7 @@ NIM: 24343033
 
 Universitas Negeri Padang
 <div align="center">  
-Dosen Pengajar: Yasdinul Huda
+Dosen Pengajar: Dr. Yasdinul Huda , S.Pd.,MT
 <div align="center">
 Mata Kuliah: Pengolahan Citra Digital
 </div>
